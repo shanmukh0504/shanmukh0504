@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHANMUKHA RANA PRATHAP</h1>
+<h1 align="center">Hi 👋, I'm Shanmukha Rana Prathap</h1>
 <h3 align="center">I am a student majoring in Computer Science Engineering. Looking for new opportunities to work and contribute to new projects.</h3>
 
 - 🔭 I’m currently working on **Fullstack based Web applications**
