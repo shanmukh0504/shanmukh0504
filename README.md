@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shanmukha Rana Prathap</h1>
-<h3 align="center">I am a student majoring in Computer Science Engineering. Looking for new opportunities to work and contribute to new projects.</h3>
+<h3 align="center">I am an Associate Software Developer Intern @catalogfi</h3>
 
-- 🔭 I’m currently working on **Fullstack based Web applications**
+- I’m currently working on **Fullstack based Web applications**
 
-- 🌱 I’m currently learning **Advanced Fullstack development**
+- I’m currently learning **Advanced Rust**
 
-- 👯 I’m looking to collaborate on **Open source Projects**
+- I’m currently developing DeFi Applications using **Rust and Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shanmukh0504](https://github.com/shanmukh0504)
+- All of my projects are available at [https://github.com/shanmukh0504](https://github.com/shanmukh0504)
 
-- 💬 Ask me about **C,C++,JAVA,PYTHON,DATA STRUCTURES,OOPS,HTML,CSS,BOOTSTRAP,JAVASCRIPT ETC,.**
+- Ask me about **C,C++,JAVA,PYTHON,DATA STRUCTURES,OOPS,HTML,CSS,JAVASCRIPT,RUST ETC,.**
 
-- 📫 How to reach me **shanmukhofficial05@gmail.com**
+- How to reach me **shanmukhofficial05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
