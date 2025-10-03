@@ -3,7 +3,7 @@
 
 - I’m currently working on **Fullstack based Web applications**
 
-- I’m currently learning **Advanced Rust**
+- I’m currently learning **Rust** and **Solidity**
 
 - I’m currently developing DeFi Applications using **Rust and Nextjs**
 
