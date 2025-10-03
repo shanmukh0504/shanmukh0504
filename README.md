@@ -9,7 +9,7 @@
 
 - All of my projects are available at [https://github.com/shanmukh0504](https://github.com/shanmukh0504)
 
-- Ask me about **C,C++,JAVA,PYTHON,DATA STRUCTURES,OOPS,HTML,CSS,JAVASCRIPT,RUST ETC,.**
+- Ask me about **C, C++, JAVA, PYTHON, DATA STRUCTURES, OOPS, HTML, CSS, JAVASCRIPT, RUST ETC,.**
 
 - How to reach me **shanmukhofficial05@gmail.com**
 
