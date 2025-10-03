@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanmukha Rana Prathap</h1>
-<h3 align="center">I am an Associate Software Developer Intern @catalogfi</h3>
+<h3 align="center">I am a Software Developer @catalogfi</h3>
 
 - I’m currently working on **Fullstack based Web applications**
 
